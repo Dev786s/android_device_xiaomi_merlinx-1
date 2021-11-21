@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Project Heavens Device Info -->
+    <string name="heavens_device_name_summary">Redmi Note 9</string>
+    <string name="heavens_chipset_type_summary">Mediatek Helio G85</string>
+    <string name="heavens_gpu_summary">Mali G52 MC2</string>
+    <string name="heavens_camera_mp_summary">48+8+2+2MP Quad Camera</string>
+    <string name="heavens_screen_type_summary">IPS LCD FHD+ 6.53 Screen</string>
+
+    <!-- Project Heavens About Maintainer Info -->
+    <string name="heavens_maintainer_name">Alicia × Yohan</string>
+
+</resources>
