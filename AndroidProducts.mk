@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_merlinx.mk
+   $(LOCAL_DIR)/heavens_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_merlinx-user \
-    lineage_merlinx-userdebug \
-    lineage_merlinx-eng
+    heavens_merlinx-user \
+    heavens_merlinx-userdebug \
+    heavens_merlinx-eng
