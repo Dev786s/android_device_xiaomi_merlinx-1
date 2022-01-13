@@ -44,6 +44,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 ## Komodo identifier.
 KOMODO_GAPPS_TYPE := nogapps
+KOMODO_OFFICIAL := true
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR := xiaomi
